@@ -8,3 +8,7 @@ This repository holds code used to profile power usage with mbed OS and Nordic n
 | 6mA | `mbed compile -c` |
 | 450uA | `mbed compile -c --profile release -DENABLE_SLEEP` |
 | 1.6 - 5uA | `mbed compile -c --profile release -DENABLE_SLEEP -DDISABLE_PRINTF` |
+
+# Power Profiling
+
+![1.6uA consumption](lowest-power.png)
