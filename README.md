@@ -17,3 +17,4 @@ This repository holds code used to profile power usage with mbed OS and Nordic n
 
 * https://docs.mbed.com/docs/mbed-os-handbook/en/latest/dev_tools/build_profiles/
 * https://github.com/ARMmbed/mbed-os/issues/3509
+* https://vilimpoc.org/blog/2017/04/24/power-profiling-on-mbed-nordic-nrf5-series/
