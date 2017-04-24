@@ -12,3 +12,8 @@ This repository holds code used to profile power usage with mbed OS and Nordic n
 # Power Profiling
 
 ![1.6uA consumption](lowest-power.png)
+
+# References
+
+* https://docs.mbed.com/docs/mbed-os-handbook/en/latest/dev_tools/build_profiles/
+* https://github.com/ARMmbed/mbed-os/issues/3509
