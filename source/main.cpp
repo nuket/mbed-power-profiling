@@ -53,8 +53,8 @@ void blinkCallback(void)
 int main()
 {
 #ifndef DISABLE_PRINTF
-	// This will enable the UART hardware and never turn it off,
-	// consuming a few hundred microamps forever.
+    // This first call to printf() will enable the UART hardware and never 
+    // turn it off, consuming a few hundred microamps forever.
     printf("Starting.\r\n");
 #endif
 
